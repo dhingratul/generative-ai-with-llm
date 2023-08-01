@@ -1,2 +1,4 @@
 # generative-ai-with-llm
-Supporting materials from GenAI instructional series by Andrew Ng
+Various PoC/MvP for different libraries and use-cases supporting Generative AI workflows. 
+
+Also includes supporting materials from GenAI instructional series by Andrew Ng
